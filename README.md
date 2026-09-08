@@ -4,7 +4,7 @@ A responsive CRM Lead Management Dashboard built with Next.js and Tailwind CSS f
 
 ## Live Demo
 
-Add your deployed project URL here.
+https://crm-lead-management-dashboard-zeta.vercel.app/
 
 ## GitHub Repository
 
